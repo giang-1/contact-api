@@ -1,0 +1,48 @@
+{
+    "contact": [
+        {
+            "id": 1,
+            "name": "giang",
+            "email": "giang@gmail.com"
+        },
+        {
+            "id": 2,
+            "name": "hải",
+            "email": "hải@gmail.com"
+        },
+        {
+            "id": 3,
+            "name": "minh",
+            "email": "minh@gmail.com"
+        }
+    ],
+    "todo": [
+        {
+            "id": 1,
+            "name": "Learing React",
+            "status": "inprocess"
+        },
+        {
+            "id": 1,
+            "name": "Learing HTML",
+            "status": "done"
+        }
+    ],
+    "staff": [
+        {
+            "id": 1,
+            "name": "Khoa Nguyễn",
+            "gender": true,
+            "hobbies": [
+                "Cờ tướng",
+                "Đọc sách",
+                "Cầu lông"
+            ],
+            "company": {
+                "id": 111,
+                "name": "CodeGym Huế",
+                "address": "28 Nguyễn Tri Phương, Phú Nhuận, Tp Huế, TT Huế"
+            }
+        }
+    ]
+}
