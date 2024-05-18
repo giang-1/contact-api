@@ -72,22 +72,5 @@
             "name": "Learing HTML",
             "status": "done"
         }
-    ],
-    "staff": [
-        {
-            "id": 1,
-            "name": "Khoa Nguyễn",
-            "gender": true,
-            "hobbies": [
-                "Cờ tướng",
-                "Đọc sách",
-                "Cầu lông"
-            ],
-            "company": {
-                "id": 111,
-                "name": "CodeGym Huế",
-                "address": "28 Nguyễn Tri Phương, Phú Nhuận, Tp Huế, TT Huế"
-            }
-        }
     ]
 }
