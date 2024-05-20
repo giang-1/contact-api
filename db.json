@@ -114,5 +114,31 @@
             "price": "50000 - 200000",
             "describe": ""
         }
+    ],
+    "visitLocation": [
+        {
+            "id": "1",
+            "name": "đại nội huế",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJrmNExslf4gArYMYBDsWEabcKEmtwEPM2YA&s",
+            "describe": "Đại Nội Huế là địa điểm đầu tiên mà chúng mình muốn nhắc đến. Nơi đây hội tụ hết tất cả vẻ đẹp về kiến trúc cổ kính vào thời đại phong kiến của nhà Nguyễn",
+            "address": "Phú Hậu, Tp. Huế, Thừa Thiên Huế",
+            "hoursOfOperation": "08:00 - 17:00"
+        },
+        {
+            "id": "2",
+            "name": "lăng tự đức",
+            "image": "https://statics.vinpearl.com/lang-tu-duc-2_1682348813.jpg",
+            "describe": "Lăng Tự Đức là công trình lăng tẩm ấn tượng bậc nhất xứ Huế. Nằm yên bình tại vị trí núi non trùng điệp, địa điểm này sẽ mang lại nhiều trải nghiệm thú vị cho du khách",
+            "address": "đường huyền trân công chúa, Tp. Huế, Thừa Thiên Huế",
+            "hoursOfOperation": "07:00 - 17:00"
+        },
+        {
+            "id": "3",
+            "name": "lăng minh mạng",
+            "image": "https://statics.vinpearl.com/lang-minh-mang-hue-1_1624691317.jpg",
+            "describe": "Lăng Minh Mạng Huế gây ấn tượng với kiến trúc truyền thống cổ xưa, mang đậm bản sắc Nho Giáo. Đây là điểm đến hấp dẫn mà du khách không nên bỏ lỡ trong hành trình về thăm cố đô để chiêm ngưỡng nghệ thuật kiến trúc lăng tẩm và hiểu hơn về các giai đoạn lịch sử quan trọng của đất nước",
+            "address": "núi Cẩm Kê, xã Hương Thọ, thị xã Hương Trà, Thừa Thiên Huế",
+            "hoursOfOperation": "08:00 - 17:00"
+        }
     ]
 }
