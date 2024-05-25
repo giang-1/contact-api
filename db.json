@@ -166,10 +166,10 @@
             "day": 7,
             "hour": 17,
             "deco": "true",
-            "partyForm": "tiệc chia tay",
+            "partyForm": "tiệc ăn mừng",
             "amountOfPeople": 12,
             "phoneNumber": "+1 (368) 487-4352",
-            "name": "Asher Avila",
+            "name": "Asher ",
             "id": 2
         },
         {
@@ -177,10 +177,10 @@
             "day": 3,
             "hour": 17,
             "deco": "true",
-            "partyForm": "tiệc chia tay",
+            "partyForm": "tiệc sinh nhật",
             "amountOfPeople": 12,
             "phoneNumber": "+1 (368) 487-4353",
-            "name": "Asher Avila",
+            "name": " Avila",
             "id": 3
         }
     ]
