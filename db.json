@@ -159,6 +159,7 @@
             "amountOfPeople": 12,
             "phoneNumber": "+1 (368) 487-4351",
             "name": "Asher Avila",
+            "restaurantName": "tavet",
             "id": 1
         },
         {
@@ -170,6 +171,7 @@
             "amountOfPeople": 12,
             "phoneNumber": "+1 (368) 487-4352",
             "name": "Asher ",
+            "restaurantName": "tavet",
             "id": 2
         },
         {
@@ -181,6 +183,7 @@
             "amountOfPeople": 12,
             "phoneNumber": "+1 (368) 487-4353",
             "name": " Avila",
+            "restaurantName": "tavet",
             "id": 3
         }
     ]
