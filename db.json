@@ -75,7 +75,7 @@
     ],
     "restaurant": [
         {
-            "id": "1",
+            "id": 1,
             "name": "tavet",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgAeFL0t05pduo5FAd6nLkyqOQLrma-AIk5kBRhVx2_g&s",
             "address": "11 Võ Thị Sáu, P. Phú Hội,Tp. Huế, Huế",
@@ -87,7 +87,7 @@
             "describe": "Tọa lạc tại con phố sầm uất nhất tại Thành Phố Huế, Tà Vẹt là một quán nhậu nổi tiếng bậc nhất con phố tây. Đến với Tà Vẹt, bạn không bao giờ cảm thấy buồn chán vì bạn sẽ thấy một thế giới thu nhỏ xung quanh mình. Với nhiều năm hoạt động, cái tên Tà Vẹt không bao giờ hết hot đối với các bạn trẻ xứ Huế, và cũng thu hút một lượng lớn khách du lịch nước ngoài. Nếu bạn thấy buồn chán và mệt mỏi, hãy rủ ngay bạn bè đến Tà Vẹt, cùng nhâm nhi những ly bia, thưởng thức âm nhạc và ngắm nhìn dòng người qua lại"
         },
         {
-            "id": "2",
+            "id": 2,
             "name": "T.O Quán",
             "image": "https://media-cdn.tripadvisor.com/media/photo-s/10/c3/05/1e/getlstd-property-photo.jpg",
             "address": "65 Bà Triệu, Xuân Phú, TP. Huế, Thừa Thiên Huế",
@@ -99,7 +99,7 @@
             "describe": ""
         },
         {
-            "id": "3",
+            "id": 3,
             "name": "Quán Nhậu Hương Đêm",
             "image": "https://loremflickr.com/640/480/food",
             "address": "38 Lê Minh, TP. Huế, Thừa Thiên Huế",
@@ -111,7 +111,7 @@
             "describe": "Một trong những quán nhậu bình dân quá quen thuộc với mọi người đó là quán nhậu Hương Đêm, tại đây các bạn không những được thưởng thức những món ăn ngon, đa dạng và giá cả hợp lý là điểm thu hút rất nhiều khách hàng đến với quán. Thực đơn của quán có rất nhiều món ăn ngon và lạ nhưng có hai món cá nhân mình rất thích ở đây là bò nhúng ớt và ếch rang lá chanh, nếu có dịp đến Huế thì các bạn nên thử hai món đó nhé mặc dù là các món phổ biến có thể gọi ở bất cứ quán nhậu nào nhưng ở quán nhậu Hương Đêm nó mang một hương vị khác lạ, để lại ấn tượng với khách hàng"
         },
         {
-            "id": "4",
+            "id": 4,
             "name": "tavet",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgAeFL0t05pduo5FAd6nLkyqOQLrma-AIk5kBRhVx2_g&s",
             "address": "11 Võ Thị Sáu, P. Phú Hội,Tp. Huế, Huế",
@@ -149,5 +149,39 @@
             "hoursOfOperation": "08:00 - 17:00"
         }
     ],
-    "customerInfor": []
+    "customerInfor": [
+        {
+            "mounth": 1,
+            "day": 7,
+            "hour": 17,
+            "deco": "true",
+            "partyForm": "tiệc chia tay",
+            "amountOfPeople": 12,
+            "phoneNumber": "+1 (368) 487-4351",
+            "name": "Asher Avila",
+            "id": 1
+        },
+        {
+            "mounth": 2,
+            "day": 7,
+            "hour": 17,
+            "deco": "true",
+            "partyForm": "tiệc chia tay",
+            "amountOfPeople": 12,
+            "phoneNumber": "+1 (368) 487-4352",
+            "name": "Asher Avila",
+            "id": 2
+        },
+        {
+            "mounth": 3,
+            "day": 3,
+            "hour": 17,
+            "deco": "true",
+            "partyForm": "tiệc chia tay",
+            "amountOfPeople": 12,
+            "phoneNumber": "+1 (368) 487-4353",
+            "name": "Asher Avila",
+            "id": 3
+        }
+    ]
 }
