@@ -136,15 +136,15 @@
         },
         {
             "id": 6,
-            "name": "Quán nhậu Bà Chanh",
+            "name": "Cape Now",
             "image": "https://hoangviettravel.vn/wp-content/uploads/2020/09/quan-nhau-o-hue-13.jpg",
             "address": "9 Trường Chinh, Huế",
-            "timeOpen": 10,
+            "timeOpen": 11,
             "timeClose": 22,
             "rating": 5,
-            "minPrice": 50000,
-            "maxPrice": 200000,
-            "describe": "Nhà hàng Bà Chanh không chỉ được biết đến là quán nhậu ở Huế mà còn là quán hải sản ngon ở Huế khá nổi tiếng nữa. Nổi tiếng nhất tại quán là món lẩu cua. Ngoài ra, các món ăn hải sản ở Bà Chanh cũng được chế biến thơm ngon, hấp dẫn. Nào là tôm rang me, sò huyết nướng, trìa xóc tỏi, mực bóp thấu, cá lát chiên,…"
+            "minPrice": 90000,
+            "maxPrice": 450000,
+            "describe": "Cape Nao là sự kết hợp đặc sắc của hương vị ẩm thực Địa Trung Hải cùng nguyên liệu tươi ngon địa phương. Một trải nghiệm độc đáo, nơi bạn sẽ tận hưởng đường chân trời với cảnh hoàng hôn ngoạn mục của Phú Quốc , Đặc biệt ở đó có bạn Tâm của tui rất xinh hihi"
         },
         {
             "id": 7,
